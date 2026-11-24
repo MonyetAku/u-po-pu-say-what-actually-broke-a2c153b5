@@ -1,0 +1,1 @@
+Upload failed: you sent the wrong file, then the right file in the wrong format, and now the server swears it has never seen either one.
